@@ -98,3 +98,13 @@
     background-color: white;
     cursor: pointer;
 }
+
+/* Experience Section*/
+#experience{
+    display: flex;
+    flex-direction: column;
+    background-color: #000000dc;
+}
+#experience h1{
+    margin: 60px;
+}
