@@ -184,3 +184,8 @@
     outline: none;
     border-radius: 25px;
 }
+#message{
+    margin: 15px;
+    padding: 10px;
+    border-radius: 20px;
+}
