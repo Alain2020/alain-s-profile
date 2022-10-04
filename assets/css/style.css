@@ -45,6 +45,7 @@
 }
 .navbar ul li a:hover{
     border-bottom: 2px solid yellow;
+    background: skyblue;
 }
 /* Home Section */
 #home{
@@ -92,7 +93,7 @@
 }
 .gallery img{
     width: 460px;
-    height: 340px;
+    height: auto;
     padding: 3px;
     margin: 3px;
 }
