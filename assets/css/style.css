@@ -108,12 +108,12 @@
     background-color: #000000dc;
 }
 #experience h1{
-    margin: 60px;
+    margin: 50px;
 }
 .columns{
     display: grid;
     grid-template-columns: auto auto;
-    padding-left: 50px;
+    padding-left: 100px;
 }
 .box{
     height: 200px;
@@ -121,12 +121,12 @@
     background-color: rgba(255, 255, 255, 0.1);
     border-radius: 30px;
     margin: 10px;
-    padding: 50px;
+    padding: 10px;
 }
 .box h2{
     color: yellowgreen;
     font-size: 2rem;
-    margin-bottom: 40px;
+    margin-bottom: 15px;
 }
 .box p{
     color: white;
